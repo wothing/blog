@@ -1,0 +1,12 @@
+10/Jun/2016:23:00:04 +0800 [ERROR 500 /example.md] template: :15:8: executing "" at <.Include>: error calling Include: open menu.html: no such file or directory
+10/Jun/2016:23:00:27 +0800 [ERROR 500 /example.md] template: :15:8: executing "" at <.Include>: error calling Include: open menu.html: no such file or directory
+10/Jun/2016:23:00:49 +0800 [ERROR 500 /example.md] template: :15:8: executing "" at <.Include>: error calling Include: open template/menu.html: no such file or directory
+10/Jun/2016:23:00:53 +0800 [ERROR 500 /example.md] template: :15:8: executing "" at <.Include>: error calling Include: open template/menu.html: no such file or directory
+10/Jun/2016:23:01:57 +0800 [ERROR 500 /example.md] template: :15:8: executing "" at <.Include>: error calling Include: open menu.html: no such file or directory
+10/Jun/2016:23:02:21 +0800 [ERROR 500 /example.md] template: :15:8: executing "" at <.Include>: error calling Include: open menu.html: no such file or directory
+10/Jun/2016:23:03:08 +0800 [ERROR 500 /example.md] template: :15:8: executing "" at <.Include>: error calling Include: open menu.html: no such file or directory
+13/Jun/2016:23:03:35 +0800 [ERROR 500 /index.md] open index.md: no such file or directory
+13/Jun/2016:23:03:41 +0800 [ERROR 500 /index.md] open index.md: no such file or directory
+13/Jun/2016:23:10:50 +0800 [ERROR 500 /docker/docker/docker.md] open docker/docker/docker.md: no such file or directory
+13/Jun/2016:23:12:22 +0800 [ERROR 500 /docker/docker.md] open docker/docker.md: no such file or directory
+13/Jun/2016:23:12:30 +0800 [ERROR 500 /docker/docker.md] open docker/docker.md: no such file or directory

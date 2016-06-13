@@ -1,0 +1,8 @@
+localhost:8000
+log ./log/access.log
+errors ./log/error.log
+root ./
+markdown / {
+  ext .md
+  template ./templates/default.html
+}
